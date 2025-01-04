@@ -1,0 +1,4 @@
+name: CommandTalker
+version: '1.0-SNAPSHOT'
+main: org.fc.commandTalker.App
+api-version: '1.21'

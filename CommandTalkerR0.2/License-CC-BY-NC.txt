@@ -1,0 +1,19 @@
+Creative Commons Attribution-NonCommercial (CC BY-NC)
+Copyright Holder: Chiyoko Sawada
+License: Creative Commons Attribution-NonCommercial 4.0 International License
+
+This software is available under the following terms:
+
+1. Attribution
+You may use, modify, and redistribute this software, but you must provide appropriate credit to the original author Chiyoko Sawada.
+You must give credit in a manner specified by the author(s) or licensor(s).
+2. Non-Commercial Use
+This software may not be used for commercial purposes. Commercial use requires explicit written permission from the copyright holder.
+Non-commercial use includes personal, educational, or research purposes, as well as use by non-profit organizations.
+3. Modifications
+You may modify, adapt, or transform this software, but any resulting works must also be used for non-commercial purposes.
+If you redistribute modified versions of this software, you must indicate the changes you made and provide appropriate credit to the original author(s).
+4. No Commercial Use
+This software cannot be used for commercial purposes. Commercial use requires separate permission from the copyright holder.
+5. Disclaimer
+This software is provided "as is," without warranty of any kind, express or implied. Use is at your own risk. The copyright holder is not responsible for any damages arising from the use of this software.
