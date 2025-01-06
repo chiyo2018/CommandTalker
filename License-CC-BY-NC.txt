@@ -1,19 +1,15 @@
-Creative Commons Attribution-NonCommercial (CC BY-NC)
-Copyright Holder: Chiyoko Sawada
-License: Creative Commons Attribution-NonCommercial 4.0 International License
+## License
 
-This software is available under the following terms:
+### Software (Plugin)
+This plugin is licensed under the **GNU General Public License v3.0**.  
+You are free to use, modify, and distribute this software under the terms of the GPLv3 license.  
+See the LICENSE file for details.
 
-1. Attribution
-You may use, modify, and redistribute this software, but you must provide appropriate credit to the original author Chiyoko Sawada.
-You must give credit in a manner specified by the author(s) or licensor(s).
-2. Non-Commercial Use
-This software may not be used for commercial purposes. Commercial use requires explicit written permission from the copyright holder.
-Non-commercial use includes personal, educational, or research purposes, as well as use by non-profit organizations.
-3. Modifications
-You may modify, adapt, or transform this software, but any resulting works must also be used for non-commercial purposes.
-If you redistribute modified versions of this software, you must indicate the changes you made and provide appropriate credit to the original author(s).
-4. No Commercial Use
-This software cannot be used for commercial purposes. Commercial use requires separate permission from the copyright holder.
-5. Disclaimer
-This software is provided "as is," without warranty of any kind, express or implied. Use is at your own risk. The copyright holder is not responsible for any damages arising from the use of this software.
+### Documentation and Educational Materials
+The documentation and educational materials associated with this project are licensed under  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+You are free to share and adapt these materials for non-commercial purposes, provided you give appropriate credit.
+
+For more information, see the full license text:
+- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/)
