@@ -22,9 +22,12 @@ Make sure to add your OpenAI API key in the `config.yml` file under the appropri
 ```yml
 openai-api-key: "your-api-key-here"
 ```
-
 ## License
-- The software (plugin) is licensed under **GPLv3**.
-- Documentation and educational materials are licensed under **CC BY-NC 4.0**.
+This project is subject to multiple licenses:
+
+1. **Core Plugin Code**:  
+   The codebase, excluding explicitly marked educational components, is licensed under **GNU General Public License v3.0 (GPLv3)**. You are free to use, modify, and distribute the code under the terms of GPLv3.
+2. **Educational Components** (algorithms, chat messages, and dynamic logic related to educational content):  
+   These portions are licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. You may share and adapt these elements for non-commercial purposes with proper attribution.
 
 For more details, see the LICENSE file.
