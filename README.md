@@ -21,6 +21,7 @@ Make sure to add your OpenAI API key in the `config.yml` file under the appropri
 
 ```yml
 openai-api-key: "your-api-key-here"
+```
 
 ## License
 
